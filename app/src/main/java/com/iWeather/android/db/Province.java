@@ -1,5 +1,5 @@
 package com.iWeather.android.db;
-
+import org.litepal.crud.DataSupport;
 /**
  * Created by Michael_Bxf on 17/10/17.
  */
